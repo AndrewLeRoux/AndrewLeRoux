@@ -20,9 +20,8 @@
 * **Name: Andy's List -- Github Link: [Repo](https://github.com/AndrewLeRoux/phase-4-project) -- Deployed Site: [Andy's List](https://andyslist.herokuapp.com/)** <br />
 **Description:** Online marketplace that allows individuals and resellers to market used goods. <br />
 
-* **Name: Activity Planner -- Github Links: [Backend Repo](https://github.com/AndrewLeRoux/phase-3-project-backend), [Frontend Repo](https://github.com/AndrewLeRoux/phase-3-project-frontend)**
-**Description:** A Sinatra/React activity planner application where users can browse a list of activities and keep track of those that interest them the most. Suggested activities are imported from an external API. <br />
-**Video Demo:** [Activity Planner](https://youtu.be/Lickne9C9w0)
+* **Name: Activity Planner -- Github Links: [Repo](https://github.com/AndrewLeRoux/Activity-Planner) -- Deployed Site: [Activity Planner](https://weekend-activity-planner.herokuapp.com/)** <br />
+**Description:** A Rails/React activity planner application where users can browse a list of activities and keep track of those that interest them the most. Suggested activities are imported from an external API. <br />
 
 ## Languages and Tools:
 
