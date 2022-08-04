@@ -22,7 +22,7 @@
 
 * **Name: Activity Planner -- Github Links: [Backend Repo](https://github.com/AndrewLeRoux/phase-3-project-backend), [Frontend Repo](https://github.com/AndrewLeRoux/phase-3-project-frontend)**
 **Description:** A Sinatra/React activity planner application where users can browse a list of activities and keep track of those that interest them the most. Suggested activities are imported from an external API. <br />
-**Video Demo:** [Video Demo](https://youtu.be/Lickne9C9w0)
+**Video Demo:** [Activity Planner](https://youtu.be/Lickne9C9w0)
 
 ## Languages and Tools:
 
