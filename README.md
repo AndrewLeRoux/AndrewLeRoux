@@ -2,7 +2,6 @@
 
 ## I am a full-stack developer, and full time athlete on the US National Rowing Team!
 
-- 🔭 I'm currently looking for work while improving past projects (like my fitness app [Trana](https://trana.herokuapp.com/)) and creating new ones!
 - 👯 I’m looking to collaborate with other developers on any new and exciting ideas!
 - ⚡ Fun fact: I love to play golf on the weekends!
 
@@ -12,19 +11,12 @@
 
 ### LinkedIn: 🤝 https://www.linkedin.com/in/https://www.linkedin.com/in/andrew-leroux/
 
-## Projects
-
-* **Name: Trana -- Github Link: [Repo](https://github.com/AndrewLeRoux/trana) -- Deployed Site: [Trana](https://trana.herokuapp.com/)** <br />
-**Description:** Rails/React SPA Fitness app with social media features that allow users to share images and descriptions of workouts with each other. <br />
-
-* **Name: Andy's List -- Github Link: [Repo](https://github.com/AndrewLeRoux/phase-4-project) -- Deployed Site: [Andy's List](https://andyslist.herokuapp.com/)** <br />
-**Description:** Online marketplace that allows individuals and resellers to market used goods. <br />
-
-* **Name: Activity Planner -- Github Links: [Repo](https://github.com/AndrewLeRoux/Activity-Planner) -- Deployed Site: [Activity Planner](https://weekend-activity-planner.herokuapp.com/)** <br />
-**Description:** A Rails/React activity planner application where users can browse a list of activities and keep track of those that interest them the most. Suggested activities are imported from an external API. <br />
-
 ## Languages and Tools:
 
+<img  align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
+<img  align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img  align="left" alt="Node.JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img  align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" />
 <img  align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img  align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img  align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -32,8 +24,6 @@
 <img  align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img  align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img  align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img  align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
-<img  align="left" alt="Rails" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
 
 <br />
 <br />
